@@ -1,0 +1,22 @@
+{
+	"help_appname": "App name will be displayed after installation on user device.",
+	"title_appname": "App name",
+	"ph_appname": "Enter app name",
+	"rg_appname": "",
+	"help_appid": "App package is basically a system name of your app. In ADAPTER it must start from com. The meaning behind it is com.COMPANYNAME.APPNAME . You can use only Latin symbols and numbers.",
+	"title_appid": "App package id",
+	"ph_appid": "com.example.app",
+	"rg_appid": "XmNvbVwuW0EtejAtOV0rXC5bQS16MC05XSsk",
+	"help_admobappid": "Admob app id. If you dont use it write here ca-app-pub-3940256099942544~3347511713.",
+	"title_admobappid": "Admob app id",
+	"ph_admobappid": "ca-app-pub-XXXXXXXXXXXXXXXX~XXXXXXXXXX",
+	"rg_admobappid": "XmNhLWFwcC1wdWItXGQrflxkKyQ=",
+	"help_orientation": "It describes the orientation of your app on its start. Please enter it in lower case.",
+	"title_orientation": "Orientation",
+	"ph_orientation": "landscape/portrait/unspecified",
+	"rg_orientation": "XmxhbmRzY2FwZXxwb3J0cmFpdHx1bnNwZWNpZmllZCQ=",
+	"help_version": "App version and versionCode are merged in ADAPTER. If you enter app version 1.0.0 versionCode will be generated as 10000, as dots are replaced to zeros. Please, ensure that your app version contains only two dots. ",
+	"title_version": "App version",
+	"ph_version": "X.X.X",
+	"rg_version": "XihbMC05XStcLlswLTldK1wuWzAtOV0rKSQ="
+}

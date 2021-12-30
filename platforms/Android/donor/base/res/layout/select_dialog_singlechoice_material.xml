@@ -1,0 +1,30 @@
+
+ı
+;
+android*http://schemas.android.com/apk/res/android!0CheckedTextView"S
+*http://schemas.android.com/apk/res/androiddrawablePadding20dp"!(ñ‚„2:h("Š
+*http://schemas.android.com/apk/res/androidpaddingRight?attr/dialogPreferredPadding"!(Ø„2'
+%ìŒøattr/dialogPreferredPadding"O
+*http://schemas.android.com/apk/res/android	ellipsizemarquee"!(«„2:0"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"!(ô„2:0ÿÿÿÿÿÿÿÿÿ"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"!(õ„2:0şÿÿÿÿÿÿÿÿ"“
+*http://schemas.android.com/apk/res/android	textColor"?attr/textColorAlertDialogListItem"!(˜„2-
++ …Œø!attr/textColorAlertDialogListItem"®
+*http://schemas.android.com/apk/res/androidpaddingStart/@dimen/abc_select_dialog_padding_start_material"!(³‡„28
+6º€˜ø.dimen/abc_select_dialog_padding_start_material"ˆ
+*http://schemas.android.com/apk/res/android
+paddingEnd?attr/dialogPreferredPadding"!(´‡„2'
+%ìŒøattr/dialogPreferredPadding"U
+*http://schemas.android.com/apk/res/androidgravitycenter_vertical"!(¯„2:8"Ÿ
+*http://schemas.android.com/apk/res/androiddrawableLeft'?android:attr/listChoiceIndicatorSingle"!(ï‚„21
+/™„„&android:attr/listChoiceIndicatorSingle"“
+*http://schemas.android.com/apk/res/android	minHeight"?attr/listPreferredItemHeightSmall"!(À‚„2-
++ĞƒŒø!attr/listPreferredItemHeightSmall"—
+*http://schemas.android.com/apk/res/androidtextAppearance"?android:attr/textAppearanceMedium"!(´€„2,
+*Á€„!android:attr/textAppearanceMedium"­
+*http://schemas.android.com/apk/res/androidpaddingLeft/@dimen/abc_select_dialog_padding_start_material"!(Ö„28
+6º€˜ø.dimen/abc_select_dialog_padding_start_material" 
+*http://schemas.android.com/apk/res/androiddrawableStart'?android:attr/listChoiceIndicatorSingle"!(’‡„21
+/™„„&android:attr/listChoiceIndicatorSingle"g
+*http://schemas.android.com/apk/res/androidid@android:id/text1"!(Ğ„2
+”€ˆandroid:id/text1!0

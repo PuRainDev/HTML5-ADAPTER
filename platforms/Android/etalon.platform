@@ -1,0 +1,161 @@
+[
+	{
+		"name": "core.exe",
+		"platform": true,
+		"projects": false,
+		"sub": "",
+		"plot": "core",
+		"content": []
+	},
+	{
+		"name": "hints.platform",
+		"platform": true,
+		"projects": false,
+		"sub": "",
+		"plot": "",
+		"content": []
+	},
+	{
+		"name": "src",
+		"platform": true,
+		"projects": false,
+		"sub": "",
+		"plot": "",
+		"content": [
+			{
+				"otype": "file",
+				"name": "7z.dll",
+				"content": []
+			},
+			{
+				"otype": "file",
+				"name": "7z.exe",
+				"content": []
+			},
+			{
+				"otype": "file",
+				"name": "baksmali.jar",
+				"content": []
+			},
+			{
+				"otype": "file",
+				"name": "bundletool.jar",
+				"content": []
+			},
+			{
+				"otype": "file",
+				"name": "fart.exe",
+				"content": []
+			},
+			{
+				"otype": "file",
+				"name": "proto.exe",
+				"content": []
+			},
+			{
+				"otype": "file",
+				"name": "smali.jar",
+				"content": []
+			}
+		]
+	},
+	{
+		"name": "icons",
+		"platform": true,
+		"projects": true,
+		"sub": "sample",
+		"plot": "",
+		"content": [
+			{
+				"otype": "folder",
+				"name": "mipmap-hdpi-v4",
+				"content": [
+					{
+						"otype": "file",
+						"name": "ic_launcher.png"
+					},
+					{
+						"otype": "file",
+						"name": "ic_launcher_foreground.png"
+					},
+					{
+						"otype": "file",
+						"name": "ic_launcher_round.png"
+					}
+				]
+			},
+			{
+				"otype": "folder",
+				"name": "mipmap-mdpi-v4",
+				"content": [
+					{
+						"otype": "file",
+						"name": "ic_launcher.png"
+					},
+					{
+						"otype": "file",
+						"name": "ic_launcher_foreground.png"
+					},
+					{
+						"otype": "file",
+						"name": "ic_launcher_round.png"
+					}
+				]
+			},
+			{
+				"otype": "folder",
+				"name": "mipmap-xhdpi-v4",
+				"content": [
+					{
+						"otype": "file",
+						"name": "ic_launcher.png"
+					},
+					{
+						"otype": "file",
+						"name": "ic_launcher_foreground.png"
+					},
+					{
+						"otype": "file",
+						"name": "ic_launcher_round.png"
+					}
+				]
+			},
+			{
+				"otype": "folder",
+				"name": "mipmap-xxhdpi-v4",
+				"content": [
+					{
+						"otype": "file",
+						"name": "ic_launcher.png"
+					},
+					{
+						"otype": "file",
+						"name": "ic_launcher_foreground.png"
+					},
+					{
+						"otype": "file",
+						"name": "ic_launcher_round.png"
+					}
+				]
+			},
+			{
+				"otype": "folder",
+				"name": "mipmap-xxxhdpi-v4",
+				"content": [
+					{
+						"otype": "file",
+						"name": "ic_launcher.png"
+					},
+					{
+						"otype": "file",
+						"name": "ic_launcher_foreground.png"
+					},
+					{
+						"otype": "file",
+						"name": "ic_launcher_round.png"
+					}
+				]
+			}
+		]
+	}
+]

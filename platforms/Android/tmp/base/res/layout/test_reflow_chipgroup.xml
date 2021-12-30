@@ -1,0 +1,39 @@
+
+à
+;
+android*http://schemas.android.com/apk/res/android"*com.google.android.material.chip.ChipGroup"Q
+*http://schemas.android.com/apk/res/androidlayout_margin16dp"(ö„2:h "`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"(ô„2:0ÿÿÿÿÿÿÿÿÿ"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"(õ„2:0şÿÿÿÿÿÿÿÿ"c
+*http://schemas.android.com/apk/res/androidid@+id/chip_group"(Ğ„2
+Ş€ øid/chip_group*û
+ò%com.google.android.material.chip.Chip"K
+*http://schemas.android.com/apk/res/android	ellipsizeend"(«„2:0"`
+*http://schemas.android.com/apk/res/androidlayout_widthwrap_content"(ô„2:0şÿÿÿÿÿÿÿÿ"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"(õ„2:0şÿÿÿÿÿÿÿÿ"pstyle,@style/Widget.MaterialComponents.Chip.Filter"25
+3…Àø+style/Widget.MaterialComponents.Chip.Filter"Y
+*http://schemas.android.com/apk/res/androidid
+@+id/chip1"(Ğ„2
+Û€ øid/chip1"j
+*http://schemas.android.com/apk/res/androidtext@string/chip_text"(Ï‚„2
+¥€¼østring/chip_text'*û
+ò%com.google.android.material.chip.Chip"K
+*http://schemas.android.com/apk/res/android	ellipsizeend"&(«„2:0"`
+*http://schemas.android.com/apk/res/androidlayout_widthwrap_content"&(ô„2:0şÿÿÿÿÿÿÿÿ"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"&(õ„2:0şÿÿÿÿÿÿÿÿ"pstyle,@style/Widget.MaterialComponents.Chip.Filter"&25
+3…Àø+style/Widget.MaterialComponents.Chip.Filter"Y
+*http://schemas.android.com/apk/res/androidid
+@+id/chip2"&(Ğ„2
+Ü€ øid/chip2"j
+*http://schemas.android.com/apk/res/androidtext@string/chip_text"&(Ï‚„2
+¥€¼østring/chip_text&'*û
+ò%com.google.android.material.chip.Chip"K
+*http://schemas.android.com/apk/res/android	ellipsizeend"-(«„2:0"`
+*http://schemas.android.com/apk/res/androidlayout_widthwrap_content"-(ô„2:0şÿÿÿÿÿÿÿÿ"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"-(õ„2:0şÿÿÿÿÿÿÿÿ"pstyle,@style/Widget.MaterialComponents.Chip.Filter"-25
+3…Àø+style/Widget.MaterialComponents.Chip.Filter"Y
+*http://schemas.android.com/apk/res/androidid
+@+id/chip3"-(Ğ„2
+İ€ øid/chip3"j
+*http://schemas.android.com/apk/res/androidtext@string/chip_text"-(Ï‚„2
+¥€¼østring/chip_text-'"
